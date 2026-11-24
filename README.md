@@ -8,7 +8,7 @@
 Cardiovascular Disease
 
 ### Metode
-Metode 1 - Regresi Linear (target)
+Metode 1 - Regresi Linear (target: `ap_hi`)
 
 ### Tautan Aplikasi
 (Belum ada)
